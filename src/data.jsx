@@ -11,7 +11,7 @@ export const projects = [
   desc:
     "A full-stack ecommerce web app with product listing, cart, checkout, and an admin dashboard for managing products, users, and orders.",
   tags: ["React.js", "Node.js", "Express", "MongoDB", "JWT"],
-  image: "/assets/image.png",
+  image: "/image.png",
 
   live: "https://ecommerce-7lph-24675taik-lithishs-projects-8d793466.vercel.app/",
 },
