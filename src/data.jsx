@@ -1,7 +1,7 @@
 export const socials = [
   { name: "LinkedIn", href: "https://www.linkedin.com/in/lithishkumar779/", icon: "linkedin" },
   { name: "GitHub", href: "https://github.com/Lithish779", icon: "github" },
-  { name: "Instagram", href: "https://instagram.com", icon: "instagram" },
+  
   { name: "X", href: "https://x.com/Lithish__kumar", icon: "twitter" },
 ];
 

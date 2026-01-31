@@ -39,11 +39,12 @@ export default function Hero() {
           Currently based in <span className="text-white/80">India</span> — open to relocate
         </p>
 
-        <h1 className="mt-10 text-5xl font-extrabold leading-tight tracking-tight md:text-7xl">
-          Hi I'm <span className="text-pink-500">Lithish</span> — Frontend <br className="hidden md:block" />
-          Engineer with Full-Stack <br className="hidden md:block" />
-          Expertise.
-        </h1>
+       <h1 className="mt-10 text-5xl font-extrabold leading-tight tracking-tight md:text-7xl">
+  Hi, I'm <span className="text-pink-500">Lithish</span> — Full-Stack <br className="hidden md:block" />
+  Developer specializing in <br className="hidden md:block" />
+  MERN & Scalable Web Apps.
+</h1>
+
 
         <p className="mt-6 max-w-3xl text-base leading-relaxed text-white/65 md:text-lg">
           I build fast, accessible, and SEO-friendly web applications using React.js,
